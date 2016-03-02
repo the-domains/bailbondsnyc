@@ -1,0 +1,28 @@
+name: BailBondsNYC
+favicon: null
+layout_spectrum: 0.24352686177007854
+typography_spectrum: 0.754353936528787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2826924412511289
+  lightness: 0.7010255232453346
+  saturation: 0.8042482391465455
+  rhythmicContrast: 0.16425882140174508
+purpose: []
